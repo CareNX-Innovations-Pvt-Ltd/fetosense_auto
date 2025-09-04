@@ -1,4 +1,9 @@
 # Fetosense Auto
+[![Discord](https://img.shields.io/discord/1403264387069775945?label=Join%20our%20Discord&logo=discord&style=flat)](https://discord.gg/aTBs7mCWgK)
+[![License](https://img.shields.io/github/license/CareNX-Innovations-Pvt-Ltd/fetosense_auto)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/CareNX-Innovations-Pvt-Ltd/fetosense_auto)](https://github.com/CareNX-Innovations-Pvt-Ltd/fetosense_auto/commits/main)
+[![Issues](https://img.shields.io/github/issues/CareNX-Innovations-Pvt-Ltd/fetosense_auto)](https://github.com/CareNX-Innovations-Pvt-Ltd/fetosense_auto/issues)
+
 
 **A ML-based automated analysis tool for portable fetal monitoring (NST/CTG).**
 
@@ -72,3 +77,23 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ##  About Fetosense by CareNX Innovations
 
 Fetosense is a smartphone-based, wireless, portable fetal monitor that integrates CTG/NST capability for expectant mothers, enabling remote and affordable fetal monitoring in India and globally ([carenx.com](https://carenx.com/?utm_source=chatgpt.com)). This repository powers the “Auto” aspect—bringing automated, AI‑driven interpretation to Fetosense’s monitoring data.
+
+## Contact
+
+CareNX Innovations Pvt. Ltd.
+- Website: [https://www.carenx.com](https://www.carenx.com)
+- Email: support@carenx.com
+
+## Acknowledgments
+
+- Thanks to all healthcare providers and mothers who provided feedback during development
+- Flutter and Dart communities for excellent documentation and support
+
+## 💬 Join Our Discord Community
+
+Have questions, feedback, or want to contribute?  
+Join our official **Discord server** to connect with developers, collaborators, and contributors:
+
+[![Discord](https://img.shields.io/discord/1403264387069775945?label=Join%20us%20on%20Discord&logo=discord&color=7289da&style=flat)](https://discord.gg/aTBs7mCWgK)
+
+> 💡 Whether you're here to report bugs, suggest features, or just say hi — we’d love to have you!
